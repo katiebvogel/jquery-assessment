@@ -1,0 +1,6 @@
+.appearing {
+  display: block; 
+  height: 200px;
+  visibility: hidden;
+  background-color: green;
+}
